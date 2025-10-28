@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "grafast": "^0.1.1-beta.27",
+    "grafserv": "^0.1.1-beta.29",
+    "graphql": "^16.11.0",
+    "h3": "1"
+  }
+}
